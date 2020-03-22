@@ -1,0 +1,6 @@
+framework module Pods_SkripsiKonseling {
+  umbrella header "Pods-SkripsiKonseling-umbrella.h"
+
+  export *
+  module * { export * }
+}

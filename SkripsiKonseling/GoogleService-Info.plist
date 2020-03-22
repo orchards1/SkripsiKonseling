@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>176819875258-f28hrob5v5p4botj8chj3k0cidg2tlrn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.176819875258-f28hrob5v5p4botj8chj3k0cidg2tlrn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuMrCZWyjmRHuunh-4JOARAEdGN-XRs8A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>176819875258</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Apple-Developer-Academy.SkripsiKonseling</string>
+	<key>PROJECT_ID</key>
+	<string>skripsy-7e295</string>
+	<key>STORAGE_BUCKET</key>
+	<string>skripsy-7e295.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:176819875258:ios:bfdb9f2532ae2e3b078183</string>
+	<key>DATABASE_URL</key>
+	<string>https://skripsy-7e295.firebaseio.com</string>
+</dict>
+</plist>
