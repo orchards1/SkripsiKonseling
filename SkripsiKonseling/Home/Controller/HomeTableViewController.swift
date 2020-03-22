@@ -33,8 +33,6 @@ class HomeTableViewController: UITableViewController {
                 self.posts.append(Posts(Dictionary: dictPosts[key] as! [String: AnyObject], key: key))
             }
             self.tableView?.reloadData()
-            print(dictPosts)
-            print("jalan")
         })
         
         
