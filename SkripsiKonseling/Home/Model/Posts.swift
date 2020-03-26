@@ -13,16 +13,16 @@ class Posts
     var key: String
     var name: String
     var texts: String
-    var userId: String
-    var postId: String
+    var userId: Int
+    var postId: Int
     
     init(Dictionary: [String: AnyObject], key: String)
     {
         self.key = key
         self.name = Dictionary["name"] as! String
         self.texts = Dictionary["texts"] as! String
-        self.userId = Dictionary["userId"] as! String
-        self.postId = Dictionary["postId"] as! String
+        self.userId = Dictionary["userId"] as! Int
+        self.postId = Dictionary["postId"] as! Int
     }
     
 }
